@@ -10,7 +10,7 @@ Modelo XGBoost Regressor que predice el consumo de combustible (L/h) en cosechad
 ## Equipo
 | Integrante | Rol |
 |---|---|
-| Cristian Bravo | Gerente de Proyecto / Líder ML |
+| Cristian Bravo | Gerente de Proyecto / Líder ML / Ing. Agronómico |
 | Carlos Orozco | Analista de Datos / Data Scientist |
 | Cristian Vallejo | Desarrollador ML / Ing. Agronómico |
 | José Caviedes | Especialista Agronómico / Soporte de Campo |
